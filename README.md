@@ -23,10 +23,10 @@ My key expertise includes:
 
 ## Statistics:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/bagetmasta">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bagetmasta&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/bagetmasta">
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=bagetmasta&theme=dark" />
 </a>
 
