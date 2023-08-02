@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaco&pause=1000&color=333333&background=30FFA300&width=435&lines=Welcome+to+my+world+of+code!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaco&pause=1000&color=333333&background=30FFA300&width=435&lines=Welcome+to+my+world+of+code!)](https://github.com/bagetmasta)
 
 Hi, I'm Artem 👋 I'm a passionate and dedicated web developer with a love for creating functional and innovative web applications. I love solving problems and thrive in collaborative environments.
 
