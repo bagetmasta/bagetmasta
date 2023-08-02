@@ -21,6 +21,15 @@ My key expertise includes:
 - SSR and SSG: **Next.js**
 - Responsive and Adaptive design
 
+## Statistics:
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bagetmasta&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=bagetmasta&theme=dark" />
+</a>
+
 ## Let's Connect 🌐
 
 I'm always open to collaborating on projects and innovative ideas. Feel free to reach out to me if you're interested in my projects, need help with your own, or just want to chat and connect!
