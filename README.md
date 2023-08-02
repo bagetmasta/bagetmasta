@@ -1,16 +1,33 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaco&pause=1000&color=333333&background=30FFA300&width=435&lines=Welcome+to+my+world+of+code!)](https://git.io/typing-svg)
 
-<!--
-**bagetmasta/bagetmasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Artem 👋 I'm a passionate and dedicated web developer with a love for creating functional and innovative web applications. I love solving problems and thrive in collaborative environments.
 
-Here are some ideas to get you started:
+## My Skill Set 🔧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My key expertise includes:
+
+- Core web: **HTML5**, **CSS3**, **JavaScript**
+- Preprocessors and methodologies: **SASS**, **BEM**
+- JavaScript libraries and frameworks: **React**, **Redux**
+- Server-side: **Node.js**
+- Databases: **MongoDB**
+- Type checking: **TypeScript**
+- API communication and testing: **REST API**, **Axios**, **Postman**
+- Authentication and database rules: **Firebase**
+- Package management: **NPM**, **YARN** 
+- Version control: **GIT**
+- Bundlers: **Parcel**, **Webpack**
+- CSS-in-JS: **Styled Component**
+- SSR and SSG: **Next.js**
+- Responsive and Adaptive design
+
+## Let's Connect 🌐
+
+I'm always open to collaborating on projects and innovative ideas. Feel free to reach out to me if you're interested in my projects, need help with your own, or just want to chat and connect!
+
+> "Learning never exhausts the mind." - Leonardo da Vinci
+
+## Contact me:
+[<img align="left" alt="telegram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />](https://t.me/baget_masta)
+[<img align="left" alt="linkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/artem-bahmet/)
+[<img align="left" alt="email" width="30px" src="https://i.ibb.co/0Mr1ZMr/gmail.png" />](mailto:baget.masta@gmail.com)
