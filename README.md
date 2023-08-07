@@ -17,7 +17,7 @@ My key expertise includes:
 - Package management: **NPM**, **YARN** 
 - Version control: **GIT**
 - Bundlers: **Parcel**, **Webpack**
-- CSS-in-JS: **Styled Component**
+- CSS-in-JS: **Styled Components**
 - SSR and SSG: **Next.js**
 - Responsive and Adaptive design
 
